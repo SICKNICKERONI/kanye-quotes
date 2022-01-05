@@ -1,0 +1,19 @@
+#quote {
+    font-family: cursive, sans-serif;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.788);
+}
+
+h1 {
+    color: white;
+    font-family: cursive, sans-serif;
+    text-align: center;
+}
